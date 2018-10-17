@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I study computer science with the minor subject economics at the Technical Univeristy Dortmund in Germany.
-One area in computer science I am most interested in is Machine Learning, Deep Learning, Neural Networks and AI.
-Other areas are Web Development and Server Administration.
-I have experience in deploying and managing my own personal GNU/Linux servers,
-having experience with multiple server/client technologies which include: Spring, Django,..
-I have at some point used quite a lot of GNU/Linux  distributions from binary to source based.
-Operating systems like Qubes OS give me hope regarding security issues and mass surveillance.
+* 学习中文
+* Interested in AI applications, business intelligence.
 
+* Working at QuinScape GmbH
+
+* Bachelor Computer Science graduate at the Technical University Dortmund
+* Thesis „Interactive client-server-based Identification of salient Information in Fitness Data“
+* Minor economics
