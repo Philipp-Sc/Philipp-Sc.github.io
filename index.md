@@ -1,4 +1,8 @@
 ---
 layout: home
-title: Philipp Schlütermann 
+title: Projects
 ---
+
+
+* https://www.indielearning.de/
+* https://lichess.org/team/the-best-ever-chess-training-app
