@@ -9,4 +9,4 @@ permalink: /about/
 
 * Data Scientist at QuinScape GmbH
 * Living in Southeast Asia 🌍, Indonesia
-* 学习中文
+* 学习中文,我在台灣住了兩年.
