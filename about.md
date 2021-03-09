@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
  
-* Bachelor Computer Science graduate at the Technical University Dortmund</li>
+* Bachelor Computer Science graduate at the Technical University Dortmund
 * Minor economics
 
 * Data Scientist at QuinScape GmbH
