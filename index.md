@@ -9,4 +9,5 @@ layout: home
 * Living in Southeast Asia 🌍, Indonesia
 * 学习中文,我在台灣住了兩年.
 
-* See <a href="https://www.philipp-schluetermann.de/">Philipp-Sc/learning</a>
+* See <a href="https://github.com/Philipp-Sc/learning">Philipp-Sc/learning</a>
+* See <a href="https://github.com/Philipp-Sc/cosmos-rust-bot">Philipp-Sc/cosmos-rust-bot</a>
